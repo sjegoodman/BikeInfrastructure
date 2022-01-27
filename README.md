@@ -5,7 +5,7 @@ Samantha Goodman
 <Br>December 2021</h3>
 Project summary is available here: <a href="https://github.com/sjegoodman/BikeInfrastructure/blob/main/PresentationPDF.pdf">PresentationPDF.pdf</a>
 <br>Tableau dashboard available on Tableau Public
-<a href="https://public.tableau.com/app/profile/samantha2686/viz/BikeInfrastructureWorkbook/Dashboard">here</a>
+<a href="https://public.tableau.com/app/profile/sjegoodman/viz/BikeInfrastructureWorkbook/Dashboard">here</a>
 <br><br>     
 This project has 5 Jupyter notebooks:<br>
         1 - Bike Shops from FourSquare API<br>
